@@ -1,0 +1,8 @@
+[package]
+name = "matrix_calc"
+version = "0.1.0"
+authors = ["yasushi"]
+
+[dependencies]
+csv = "1"
+geometry = { path = "../geometry"}
